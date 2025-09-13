@@ -1,50 +1,55 @@
 # 👋 Hi, I’m Aayush Kumar  
 
-💻 **Software Development Engineer in Test (SDET)** | 🚀 Automation Enthusiast | 🌐 Open Source Contributor  
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=FF5733&center=true&vCenter=true&width=1000&lines=🚀+Automation+Engineer;💻+SDET+%7C+Software+Development+Engineer+in+Test;⚡+TestNG+%7C+Appium+%7C+Selenium;🌱+Open+Source+Contributor;📊+Building+Scalable+Test+Frameworks;☁️+Cloud-Native+Testing+%7C+CI%2FCD+Enthusiast)](https://git.io/typing-svg)
 
 ---
 
 ## 🔥 About Me  
 - 🌱 Passionate about building **scalable test automation frameworks**.  
-- 🔧 Skilled in **TestNG, Appium, Selenium, Java, Python, Gradle, and CI/CD pipelines**.  
+- 🔧 Skilled in **TestNG, Appium, Selenium, Java, Gradle, and CI/CD pipelines**.  
 - 📊 Experienced in **Excel-driven test frameworks, Apache POI, Extent Reports, Flow Mapper, and parallel execution**.  
 - ⚡ Hands-on with **mobile automation**, **API testing**, and **continuous testing integration**.  
-- 🌍 Exploring **DevOps, Cloud-native testing (AWS, Docker, Kubernetes)**.  
+- 🌍 Exploring **DevOps, Cloud-native testing (AWS)**.  
 
 ---
 
 ## 🛠️ Tech Stack  
 
-**Languages & Scripting**  
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)  
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)  
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)  
+**Languages**  
+<p align="left">  
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" height="40"/>  
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/selenium/selenium-original.svg" width="40" height="40"/>  
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" height="40"/>  
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" height="40"/>  
+</p>
 
-**Automation & Testing**  
-![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white)  
-![Appium](https://img.shields.io/badge/Appium-472A91?style=for-the-badge&logo=appium&logoColor=white)  
-![TestNG](https://img.shields.io/badge/TestNG-FF6F00?style=for-the-badge&logo=apache&logoColor=white)  
-![JUnit](https://img.shields.io/badge/JUnit-25A162?style=for-the-badge&logo=junit5&logoColor=white)  
 
 **Build & CI/CD**  
-![Maven](https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apachemaven&logoColor=white)  
-![Gradle](https://img.shields.io/badge/Gradle-02303A?style=for-the-badge&logo=gradle&logoColor=white)  
-![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)  
-![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)  
+<p align="left">  
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/maven/maven-original.svg" width="40" height="40"/>  
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gradle/gradle-original.svg" width="40" height="40"/>  
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jenkins/jenkins-original.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" height="40"/>
+</p>
 
 **Reporting & Quality**  
-![Extent Reports](https://img.shields.io/badge/Extent%20Reports-006699?style=for-the-badge&logo=databricks&logoColor=white)  
-![Allure](https://img.shields.io/badge/Allure-FF5733?style=for-the-badge&logo=allure&logoColor=white)  
-![SonarQube](https://img.shields.io/badge/SonarQube-4E9BCD?style=for-the-badge&logo=sonarqube&logoColor=white)  
+<p align="left">  
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sonarqube/sonarqube-original.svg" width="40" height="40"/>  
+</p>
 
 **Databases**  
-![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)  
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)  
+<p align="left">  
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" height="40"/>  
+</p>
 
 **Other Tools**  
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)  
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)  
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)  
+<p align="left">  
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/maven/maven-original.svg" width="40" height="40"/>  
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gradle/gradle-original.svg" width="40" height="40"/>  
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jenkins/jenkins-original.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" height="40"/>
+</p>
+ 
 
 ---
 
@@ -59,15 +64,17 @@
 - Built with **Gradle + TestNG**, optimized for **parallel execution**.  
 
 ### 🚀 Mobile Testing with Appium  
-- End-to-end **Android/iOS automation**.  
-- Integrated with **CI/CD pipelines** for fast mobile release cycles.  
+- End-to-end **Android automation**.  
+
 
 ---
 
-## 📊 GitHub Stats  
+## 📊 GitHub Stats & Trophies  
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=aayush-kumar&show_icons=true&theme=radical)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aayush-kumar&layout=compact&theme=radical)  
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=aayush-trustt&show_icons=true&theme=radical)  
+
+🏆 **GitHub Trophies**  
+![trophy](https://github-profile-trophy.vercel.app/?username=aayush-trustt&theme=radical&margin-w=10&margin-h=10&no-frame=true)  
 
 ---
 
@@ -77,6 +84,8 @@
 - **Cloud-native test automation** with AWS, Docker, Kubernetes.  
 
 ---
+
+![Visitor Count](https://komarev.com/ghpvc/?username=aayush-trustt&label=Profile+Views&color=blue&style=flat)  
 
 ⭐️ _“Code, test, break, fix, repeat – that’s how quality is built.”_  
 
