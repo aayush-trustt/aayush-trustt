@@ -1,16 +1,22 @@
-## Hi there 👋
+# Hi 👋, I'm Aayush Kumar  
 
-<!--
-**aayush-trustt/aayush-trustt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 **SDET & Automation Engineer** passionate about building scalable and maintainable frameworks.  
 
-Here are some ideas to get you started:
+### 🔧 Tech Stack  
+- Java • TestNG • Appium • Selenium  
+- Gradle • SonarQube • CI/CD pipelines  
+- Excel-driven automation with Apache POI  
+- Extent Reports • Retry Analyzer • Listeners  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🚀 What I Do  
+- Design and scale frameworks to hundreds of tests  
+- Integrate automation into CI/CD  
+- Ensure code quality with SonarQube  
+- Build reporting pipelines with Extent Reports  
+
+### 🌱 Currently Exploring  
+- DevOps: Docker, Kubernetes, GitHub Actions  
+- Advanced test strategies and parallel execution  
+
+---
+✨ Open-source enthusiast, quality advocate, and always curious to learn.
