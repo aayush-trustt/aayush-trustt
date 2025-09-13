@@ -1,4 +1,4 @@
-# Hi 👋, I'm Aayush Kumar  अहमस्मि योधः।💥
+# Hi 👋, I'm Aayush Kumar  
 
 💻 **SDET & Automation Engineer** passionate about building scalable and maintainable frameworks.  
 
@@ -19,4 +19,4 @@
 - Advanced test strategies and parallel execution  
 
 ---
-✨ Open-source enthusiast, quality advocate, and always curious to learn.
+अहमस्मि योधः।💥
